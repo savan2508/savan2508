@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Thank you for visiting my GitHub profile! 
+
+Whether you've come from my website or another source, I'm excited to have you here. Feel free to browse through my repositories and explore my code. 
+
+If you're interested in connecting with me on LinkedIn, you can find my profile at https://www.linkedin.com/in/savan-patel-577a6669/. And if you'd like to get in touch, please don't hesitate to send me an email at sawanpatel2508@gmail.com.
+
+Please check out my website: https://savan2508.github.io/savan-website
+
 <!--
 **savan2508/savan2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
