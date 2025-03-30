@@ -8,9 +8,6 @@ If you're interested in connecting with me on LinkedIn, you can find my profile 
 
 Please check out my website: https://savanpatel.net
 
-# 💫 About Me:
-🔭 I'm currently working on: Developing various web and mobile applications using technologies like React, React Native, Node.js, and PostgreSQL. My projects involve creating scalable, open-source tools and applications, including calculators for engineering and finance.<br><br>👯 I'm looking to collaborate on: Open-source projects, particularly those focused on full-stack development, data science, and machine learning. I'm also interested in collaborating with others on innovative app development using TypeScript and React frameworks.<br><br>🤝 I'm looking for help with: Building scalable backends and integrating secure authentication methods for web and mobile applications, as well as enhancing AI models for predictive analysis in trading or recommendation systems.<br><br>🌱 I'm currently learning: Advanced TypeScript, secure backend development with JWT, and optimizing AI models for machine learning applications. I am also exploring more efficient ways to deploy apps using CI/CD pipelines.<br><br>💬 Ask me about: Web development with React and Node.js, AI in trading, creating efficient algorithms, and data science. I can also discuss the tech stack I use for mobile and web app development and provide insights into transitioning from Windows to Ubuntu.<br><br>⚡ Fun fact: I switched from Windows to Ubuntu due to frustration with Windows' new features and ads, and I haven't looked back since!
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/savanpatel2508/) 
 
